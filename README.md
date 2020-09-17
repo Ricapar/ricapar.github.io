@@ -1,8 +1,8 @@
 # Hi, my name is Rich Acosta
-Developer, engineer, cloud architect, and many other things in between.
+Developer, engineer, cloud architect, and many other things in between. Retro computing and game enthusiast.
 
 I can probably fix your computer but I'd much rather be working on enabling enterprises to transform
-their technology operations to get the most value from The Cloud. Retro computing and game enthusiast.
+their technology operations to get the most value from The Cloud.
 
 Central Jersey does exist; I live there.
 
