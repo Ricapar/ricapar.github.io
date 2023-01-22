@@ -1,0 +1,150 @@
+ /* Resets */
+ h1,
+ h2,
+ p {
+     padding: 0;
+     margin: 0;
+ }
+
+ /* Page */
+ body {
+     font-family: "Open Sans", sans-seirf;
+     background: #0f1b2a;
+     color: #fff;
+ }
+
+ #page {
+     max-width: 800px;
+     margin: 0 auto;
+ }
+
+ /* Header */
+ #page div {
+     padding: 10px;
+ }
+
+ #me {
+     overflow: auto;
+ }
+
+ #me img {
+     width: 200px;
+     max-width: 30%;
+     float: left;
+ }
+
+ h1 {
+     font-size: 60pt;
+     margin: 0 0 10px 50px;
+     font-weight: normal;
+     float: left;
+     line-height: 65pt;
+ }
+
+ #me ul {
+     text-align: right;
+     list-style: none;
+     color: #8d99a8;
+ }
+
+ a {
+     font-weight: bold;
+     color: #539fe5;
+     text-decoration: none;
+ }
+
+ a:hover {
+     text-decoration: underline;
+ }
+
+ /* Section Blocks */
+ .section {
+     border-top: 1px dashed #539fe5;
+     margin: 30px 0 0 0;
+ }
+
+ .section h2 {
+     float: left;
+     width: 250px;
+ }
+
+ .section p {
+     margin-left: 250px;
+     padding-bottom: 10px;
+ }
+
+ * {
+     /* outline: 1px dotted red; */
+ }
+
+ .clear {
+     clear: both
+ }
+
+ h1 span {
+     display: block
+ }
+
+ #contact img {
+     height: 25px;
+     float: left;
+     padding-right: 10px;
+ }
+
+ #contact p {
+     padding-bottom: 20px
+ }
+
+ @media screen and (max-width: 800px) {
+     h1 {
+         font-size: 30pt;
+         margin: 0;
+         text-align: center;
+         float: none;
+     }
+
+     h1 span {
+         display: inline;
+     }
+
+     #me {
+         text-align: center;
+     }
+
+     #me img {
+         max-width: 33%;
+         float: none
+     }
+
+     #me ul {
+         text-align: center;
+         font-weight: normal;
+         margin: 0;
+         padding: 0;
+         float: none;
+     }
+
+     #me li {
+         display: inline;
+     }
+
+     #me li:not(:last-child)::after {
+         content: ' • ';
+     }
+
+     .section {
+         padding: 0 20px;
+     }
+
+     .section h2 {
+         float: none;
+         display: block;
+         width: auto;
+         color: #539fe5;
+         padding-bottom: 15px;
+     }
+
+     .section p {
+         margin-left: 0;
+     }
+ }
