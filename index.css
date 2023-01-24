@@ -20,7 +20,7 @@
 
  /* Header */
  #page div {
-     padding: 10px;
+     padding: 20px 10px;
  }
 
  #me {
@@ -60,7 +60,8 @@
  /* Section Blocks */
  .section {
      border-top: 1px dashed #539fe5;
-     margin: 30px 0 0 0;
+     margin: 0 0 0 0;
+     clear: both;
  }
 
  .section h2 {
