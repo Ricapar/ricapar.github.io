@@ -2,14 +2,16 @@
 Developer, engineer, cloud architect, and many other things in between. Retro computing and game enthusiast.
 
 I can probably fix your computer but I'd much rather be working on enabling enterprises to transform
-their technology operations to get the most value from The Cloud.
+their technology operations to get the most value from the cloud.
 
 Central Jersey does exist; I live there.
 
 ## Find Me
 
 * [LinkedIn](http://www.linkedin.com/in/richacosta)
-* [Twitter](https://twitter.com/Ricapar)
+* [@ricapar on Instagram](https://www.instagram.com/ricapar)
+* [KD2SQK on QRZ](https://www.qrz.com/db/KD2SQK)
+* [@kd2sqk on Instagram](https://www.instagram.com/kd2sqk)
 
 ## Projects
 
